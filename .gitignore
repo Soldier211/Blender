@@ -1,0 +1,42 @@
+# Pliki Blendera
+*.blend1
+*.blend2
+*.blend@
+
+# Foldery z plikami tymczasowymi
+tmp/
+temp/
+cache/
+*.tmp
+
+# Pliki wygenerowane przez Blender
+*.bak
+*.blend1
+*.blend2
+*.blend@
+
+# Logi
+*.log
+
+# Systemowe pliki
+.DS_Store
+Thumbs.db
+
+# Środowiskowe pliki
+.env
+
+# IDE i edytory
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.project
+*.classpath
+
+# OS generated files
+Desktop.ini
+*.bak
+*.tmp
